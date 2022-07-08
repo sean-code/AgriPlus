@@ -38,3 +38,13 @@
     padding:2%;
 
 }
+.figures{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color:rgb(251, 249, 246);
+    margin-left: 10%;
+    margin-right: 40%;
+    width: 60%;
+}
