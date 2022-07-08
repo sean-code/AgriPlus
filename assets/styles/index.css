@@ -24,3 +24,17 @@
     margin-top: -2.5%;
     margin-bottom: 2%;
 }
+/*Main Content 1*/
+
+#intro{
+    background-image: url('../images/image 1.png');
+    
+}
+#explore{
+    width:10%;
+    height:10%;
+    color:white;
+    background-color: #ed661f;
+    padding:2%;
+
+}
