@@ -60,5 +60,9 @@
 }
 .social_media{
     width: 50px;
+    /*background-color: white;*/
+    margin: 2%;
+    display: inline-flex ;
+    flex-direction: row;
 
 }
