@@ -1,5 +1,6 @@
 *{
     margin:3%;
+    font-size:larger;
 }
 
 /*Header Section*/
@@ -52,10 +53,22 @@
 }
 
 /*Main Content 2*/
+.subhead1{
+    margin-top: 10%;
+}
 #one{
     float:right;
-    height:200px;
+    height:400px;
+    width:fit-content;
+    margin-bottom: 3%;
+    
 }
+/*Main Content 3*/
+.subhead2{
+    clear: both;
+    text-align: center;
+}
+
 
 
 
