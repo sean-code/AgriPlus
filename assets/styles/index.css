@@ -10,3 +10,16 @@
     background-color: black;
     padding:4%;
 }
+#logo{
+    font-size: xx-large;
+}
+.nav{
+    height: 8%;
+    flex-shrink: initial;
+    align-items: center;
+}
+#start{
+    background-color: #ed661f;
+    padding:1%;
+    margin-top: -2.5%;
+}
