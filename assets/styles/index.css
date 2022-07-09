@@ -86,11 +86,12 @@
 .reviews{
     display: flex;
     width:10px;
-    text-align: left;
+    text-align: center;
 }
 #stars{
     height:100px;
     width: 500px;
+    justify-content: space-between;
 }
 
 
