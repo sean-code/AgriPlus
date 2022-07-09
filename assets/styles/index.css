@@ -116,3 +116,14 @@ footer{
     height:15%;
     width:20%;
 }
+.bottom_part{
+    background-color: black;
+    color: white;
+}
+#download{
+    height: 40px;
+    width: 100px;
+}
+.footer_note{
+    text-align: center;
+}
