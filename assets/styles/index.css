@@ -79,6 +79,26 @@
     width: 40px;
 }
 
+/*Main Content 5*/
+.subhead4{
+    text-align: center;
+}
+.reviews{
+    display: flex;
+    width:10px;
+    position: relative;
+}
+#star{
+    height: 250px;
+    margin-top:
+}
+#stars{
+    height:100px;
+    width: 500px;
+}
+
+
+
 /*Footer Section*/
 #footer{
     color: white;
