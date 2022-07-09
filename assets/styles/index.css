@@ -86,11 +86,7 @@
 .reviews{
     display: flex;
     width:10px;
-    position: relative;
-}
-#star{
-    height: 250px;
-    margin-top:
+    text-align: left;
 }
 #stars{
     height:100px;
