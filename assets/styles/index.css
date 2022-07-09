@@ -97,27 +97,22 @@
 
 
 /*Footer Section*/
-#footer{
-    color: white;
-    background-color: black;
-}
-.email_sub{
-    text-align: center;
-    margin-top: 20%;
-
-}
 #email_icon{
     width: 50%;
 }
-.social_media{
-    width: 30px;
-    margin: 2%;
+.email_sub{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 20%;
+}
+footer{
+    color: white;
+    background-color: black;
     display: flex;
     flex-direction: row;
-
 }
-.download{
-    width: 900px;
-
-
+#socialplat{
+    height:15%;
+    width:20%;
 }
