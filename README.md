@@ -3,6 +3,10 @@ AgriPlus Website
 ## Authors
 - [sean-code](https://github.com/sean-code)
 
+
+## Project Description
+
+
 ## Project setup instructions
 To start using this project use the following commands:
 
