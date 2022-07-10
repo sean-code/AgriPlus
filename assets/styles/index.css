@@ -1,15 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&display=swap');
 *{
     margin:3%;
     font-size:larger;
-    font-family: 'Inter', sans-serif;
-    font-family: 'Poppins', sans-serif; 
-
 }
 
 /*Header Section*/
 #navbar{
+    font-family: "Inter", sans-serif;
     height:fit-content;
     display: flex;
     flex-direction:row;
@@ -20,6 +18,7 @@
 }
 #logo{
     font-size: xx-large;
+    Font-family: "Poppins", sans-serif;
 }
 .nav{
     height: 8%;
@@ -34,12 +33,17 @@
 /*Main Content 1*/
 
 #intro{
+    Font-family: "Inter", sans-serif;
     background-image: url('../images/image\ 2.png'), url('../images/image\ 1.png');
     background-position: right top, center center;
     background-size: 60%, 75%;
     background-repeat: no-repeat, no-repeat;
 }
+.heading{
+    Font-family: "Poppins", sans-serif;
+}
 #explore{
+    Font-family: "Poppins", sans-serif;
     width:10%;
     height:10%;
     color:white;
@@ -48,6 +52,7 @@
 
 }
 .figures{
+    Font-family: "Poppins", sans-serif;
     display: flex;
     flex-direction: row;
     text-align: center;
@@ -102,7 +107,6 @@
 }
 .read_more{
     text-align: right;
-    text-decoration-color: ;
 }
 /*Footer Section*/
 #email_icon{
