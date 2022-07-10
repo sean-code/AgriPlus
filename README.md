@@ -8,6 +8,7 @@ AgriPlus Website
 This project involves the development of a webpage for AgriPlus business idea.
 The idea is to connect farmers and their customers to satisfy each of their needs, which are to make profit and to have quality fresh produce, respectively.
 The Project was done for the purpose of learning and to grasp hands-on skills in web development as part of my Software Engineering journey.
+This work has been deployed on GitHub and can be viewed using this live link https://sean-code.github.io/AgriPlus/
 
 ## Project setup instructions
 To start using this project use the following commands:
